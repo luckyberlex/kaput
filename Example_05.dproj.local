@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="BaseSprite.pas"/>
+    <File Path="DirectDrawUsing.pas"/>
+    <File Path="drawtimeandnumb.pas"/>
+    <File Path="Final.pas"/>
+    <File Path="Final.dfm"/>
+    <File Path="FormMain.pas"/>
+    <File Path="FormMain.dfm"/>
+    <File Path="IronKaput.pas"/>
+    <File Path="IronKaputBase.pas"/>
+    <File Path="Logo.pas"/>
+    <File Path="Logo.dfm"/>
+    <File Path="SoundManagerIronKaput.pas"/>
+    <File Path="Start.pas"/>
+    <File Path="Start.dfm"/>
+    <File Path="UdxInputManager.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
